@@ -1,0 +1,359 @@
+{
+  "USA": {
+    "Cities": {
+      "New York City": {
+        "monthly_living_cost_single": 4800,
+        "monthly_living_cost_couple": 6800,
+        "monthly_living_cost_family": 10500,
+        "cost_of_living_index_nyc_100": 100.0,
+        "retirement_asset_thresholds": {
+          "Essential": 2040000,
+          "Comfortable": 3060000,
+          "Luxury": 4080000
+        }
+      },
+      "San Francisco": {
+        "monthly_living_cost_single": 4500,
+        "monthly_living_cost_couple": 6200,
+        "monthly_living_cost_family": 9800,
+        "cost_of_living_index_nyc_100": 90.5,
+        "retirement_asset_thresholds": {
+          "Essential": 1860000,
+          "Comfortable": 2790000,
+          "Luxury": 3720000
+        }
+      },
+      "San Jose": {
+        "monthly_living_cost_single": 4200,
+        "monthly_living_cost_couple": 5800,
+        "monthly_living_cost_family": 9200,
+        "cost_of_living_index_nyc_100": 88.5,
+        "retirement_asset_thresholds": {
+          "Essential": 1740000,
+          "Comfortable": 2610000,
+          "Luxury": 3480000
+        }
+      },
+      "Boston": {
+        "monthly_living_cost_single": 4000,
+        "monthly_living_cost_couple": 5500,
+        "monthly_living_cost_family": 8500,
+        "cost_of_living_index_nyc_100": 87.2,
+        "retirement_asset_thresholds": {
+          "Essential": 1650000,
+          "Comfortable": 2475000,
+          "Luxury": 3300000
+        }
+      },
+      "Washington DC": {
+        "monthly_living_cost_single": 3800,
+        "monthly_living_cost_couple": 5200,
+        "monthly_living_cost_family": 8000,
+        "cost_of_living_index_nyc_100": 84.1,
+        "retirement_asset_thresholds": {
+          "Essential": 1560000,
+          "Comfortable": 2340000,
+          "Luxury": 3120000
+        }
+      },
+      "Seattle": {
+        "monthly_living_cost_single": 3500,
+        "monthly_living_cost_couple": 4800,
+        "monthly_living_cost_family": 7500,
+        "cost_of_living_index_nyc_100": 81.4,
+        "retirement_asset_thresholds": {
+          "Essential": 1440000,
+          "Comfortable": 2160000,
+          "Luxury": 2880000
+        }
+      },
+      "San Diego": {
+        "monthly_living_cost_single": 3400,
+        "monthly_living_cost_couple": 4700,
+        "monthly_living_cost_family": 7300,
+        "cost_of_living_index_nyc_100": 80.4,
+        "retirement_asset_thresholds": {
+          "Essential": 1410000,
+          "Comfortable": 2115000,
+          "Luxury": 2820000
+        }
+      },
+      "Los Angeles": {
+        "monthly_living_cost_single": 3400,
+        "monthly_living_cost_couple": 4600,
+        "monthly_living_cost_family": 7200,
+        "cost_of_living_index_nyc_100": 80.1,
+        "retirement_asset_thresholds": {
+          "Essential": 1380000,
+          "Comfortable": 2070000,
+          "Luxury": 2760000
+        }
+      },
+      "Miami": {
+        "monthly_living_cost_single": 3200,
+        "monthly_living_cost_couple": 4400,
+        "monthly_living_cost_family": 6800,
+        "cost_of_living_index_nyc_100": 75.4,
+        "retirement_asset_thresholds": {
+          "Essential": 1320000,
+          "Comfortable": 1980000,
+          "Luxury": 2640000
+        }
+      },
+      "Philadelphia": {
+        "monthly_living_cost_single": 2800,
+        "monthly_living_cost_couple": 3800,
+        "monthly_living_cost_family": 5800,
+        "cost_of_living_index_nyc_100": 74.5,
+        "retirement_asset_thresholds": {
+          "Essential": 1140000,
+          "Comfortable": 1710000,
+          "Luxury": 2280000
+        }
+      },
+      "Denver": {
+        "monthly_living_cost_single": 2800,
+        "monthly_living_cost_couple": 3800,
+        "monthly_living_cost_family": 5700,
+        "cost_of_living_index_nyc_100": 74.3,
+        "retirement_asset_thresholds": {
+          "Essential": 1140000,
+          "Comfortable": 1710000,
+          "Luxury": 2280000
+        }
+      },
+      "Portland": {
+        "monthly_living_cost_single": 2700,
+        "monthly_living_cost_couple": 3700,
+        "monthly_living_cost_family": 5600,
+        "cost_of_living_index_nyc_100": 73.9,
+        "retirement_asset_thresholds": {
+          "Essential": 1110000,
+          "Comfortable": 1665000,
+          "Luxury": 2220000
+        }
+      },
+      "Atlanta": {
+        "monthly_living_cost_single": 2600,
+        "monthly_living_cost_couple": 3600,
+        "monthly_living_cost_family": 5500,
+        "cost_of_living_index_nyc_100": 72.8,
+        "retirement_asset_thresholds": {
+          "Essential": 1080000,
+          "Comfortable": 1620000,
+          "Luxury": 2160000
+        }
+      },
+      "Charlotte": {
+        "monthly_living_cost_single": 2500,
+        "monthly_living_cost_couple": 3400,
+        "monthly_living_cost_family": 5200,
+        "cost_of_living_index_nyc_100": 72.7,
+        "retirement_asset_thresholds": {
+          "Essential": 1020000,
+          "Comfortable": 1530000,
+          "Luxury": 2040000
+        }
+      },
+      "Chicago": {
+        "monthly_living_cost_single": 2600,
+        "monthly_living_cost_couple": 3500,
+        "monthly_living_cost_family": 5400,
+        "cost_of_living_index_nyc_100": 72.5,
+        "retirement_asset_thresholds": {
+          "Essential": 1050000,
+          "Comfortable": 1575000,
+          "Luxury": 2100000
+        }
+      },
+      "Nashville": {
+        "monthly_living_cost_single": 2400,
+        "monthly_living_cost_couple": 3300,
+        "monthly_living_cost_family": 5000,
+        "cost_of_living_index_nyc_100": 70.1,
+        "retirement_asset_thresholds": {
+          "Essential": 990000,
+          "Comfortable": 1485000,
+          "Luxury": 1980000
+        }
+      },
+      "Dallas": {
+        "monthly_living_cost_single": 2300,
+        "monthly_living_cost_couple": 3200,
+        "monthly_living_cost_family": 4800,
+        "cost_of_living_index_nyc_100": 69.3,
+        "retirement_asset_thresholds": {
+          "Essential": 960000,
+          "Comfortable": 1440000,
+          "Luxury": 1920000
+        }
+      },
+      "Austin": {
+        "monthly_living_cost_single": 2400,
+        "monthly_living_cost_couple": 3300,
+        "monthly_living_cost_family": 4900,
+        "cost_of_living_index_nyc_100": 68.8,
+        "retirement_asset_thresholds": {
+          "Essential": 990000,
+          "Comfortable": 1485000,
+          "Luxury": 1980000
+        }
+      },
+      "Houston": {
+        "monthly_living_cost_single": 2200,
+        "monthly_living_cost_couple": 3000,
+        "monthly_living_cost_family": 4600,
+        "cost_of_living_index_nyc_100": 66.4,
+        "retirement_asset_thresholds": {
+          "Essential": 900000,
+          "Comfortable": 1350000,
+          "Luxury": 1800000
+        }
+      },
+      "Phoenix": {
+        "monthly_living_cost_single": 2200,
+        "monthly_living_cost_couple": 3000,
+        "monthly_living_cost_family": 4600,
+        "cost_of_living_index_nyc_100": 65.7,
+        "retirement_asset_thresholds": {
+          "Essential": 900000,
+          "Comfortable": 1350000,
+          "Luxury": 1800000
+        }
+      }
+    },
+    "metadata": {
+      "source": "MIT Living Wage Calculator (2026), Numbeo, BLS, SmartAsset",
+      "withdrawal_rate": "4.0%"
+    }
+  },
+  "Japan": {
+    "Cities": {
+      "Tokyo": {
+        "currency": "USD",
+        "monthly_living_cost_single": 1200,
+        "monthly_living_cost_couple": 1867,
+        "monthly_living_cost_family": 3667,
+        "notes": "生活成本全日最高，租金佔比大",
+        "retirement_asset_thresholds": {
+          "Essential": 560100,
+          "Comfortable": 840150,
+          "Luxury": 1120200
+        }
+      },
+      "Yokohama": {
+        "currency": "USD",
+        "monthly_living_cost_single": 1067,
+        "monthly_living_cost_couple": 1600,
+        "monthly_living_cost_family": 3200,
+        "notes": "僅次於東京，機能優且離都會近",
+        "retirement_asset_thresholds": {
+          "Essential": 480000,
+          "Comfortable": 720000,
+          "Luxury": 960000
+        }
+      },
+      "Osaka": {
+        "currency": "USD",
+        "monthly_living_cost_single": 967,
+        "monthly_living_cost_couple": 1400,
+        "monthly_living_cost_family": 2800,
+        "notes": "物價較東京友善，美食選擇極多",
+        "retirement_asset_thresholds": {
+          "Essential": 420000,
+          "Comfortable": 630000,
+          "Luxury": 840000
+        }
+      },
+      "Nagoya": {
+        "currency": "USD",
+        "monthly_living_cost_single": 900,
+        "monthly_living_cost_couple": 1267,
+        "monthly_living_cost_family": 2667,
+        "notes": "中部工業大城，路寬且租金合理",
+        "retirement_asset_thresholds": {
+          "Essential": 380100,
+          "Comfortable": 570150,
+          "Luxury": 760200
+        }
+      },
+      "Sapporo": {
+        "currency": "USD",
+        "monthly_living_cost_single": 833,
+        "monthly_living_cost_couple": 1133,
+        "monthly_living_cost_family": 2333,
+        "notes": "冬季暖氣費高，但夏季氣候宜人",
+        "retirement_asset_thresholds": {
+          "Essential": 339900,
+          "Comfortable": 509850,
+          "Luxury": 679800
+        }
+      },
+      "Fukuoka": {
+        "currency": "USD",
+        "monthly_living_cost_single": 867,
+        "monthly_living_cost_couple": 1200,
+        "monthly_living_cost_family": 2467,
+        "notes": "退休熱點，海鮮便宜、物價平穩",
+        "retirement_asset_thresholds": {
+          "Essential": 360000,
+          "Comfortable": 540000,
+          "Luxury": 720000
+        }
+      },
+      "Kawasaki": {
+        "currency": "USD",
+        "monthly_living_cost_single": 1000,
+        "monthly_living_cost_couple": 1467,
+        "monthly_living_cost_family": 3000,
+        "notes": "緊鄰東京，居住成本受都會區影響",
+        "retirement_asset_thresholds": {
+          "Essential": 440100,
+          "Comfortable": 660150,
+          "Luxury": 880200
+        }
+      },
+      "Kobe": {
+        "currency": "USD",
+        "monthly_living_cost_single": 900,
+        "monthly_living_cost_couple": 1233,
+        "monthly_living_cost_family": 2533,
+        "notes": "依山傍海，生活品質高且環境優美",
+        "retirement_asset_thresholds": {
+          "Essential": 369900,
+          "Comfortable": 554850,
+          "Luxury": 739800
+        }
+      },
+      "Kyoto": {
+        "currency": "USD",
+        "monthly_living_cost_single": 933,
+        "monthly_living_cost_couple": 1300,
+        "monthly_living_cost_family": 2667,
+        "notes": "文化底蘊深，市中心觀光區溢價高",
+        "retirement_asset_thresholds": {
+          "Essential": 390000,
+          "Comfortable": 585000,
+          "Luxury": 780000
+        }
+      },
+      "Saitama": {
+        "currency": "USD",
+        "monthly_living_cost_single": 933,
+        "monthly_living_cost_couple": 1267,
+        "monthly_living_cost_family": 2733,
+        "notes": "東京通勤圈，生活便利性高",
+        "retirement_asset_thresholds": {
+          "Essential": 380100,
+          "Comfortable": 570150,
+          "Luxury": 760200
+        }
+      }
+    },
+    "metadata": {
+      "source": "日本總務省統計局 (2025-2026), Numbeo, Real Estate Japan",
+      "usd_jpy_rate": 150,
+      "withdrawal_rate": "4.0%"
+    }
+  }
+}
